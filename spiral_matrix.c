@@ -26,40 +26,38 @@ int main(void) {
     //r rightward boundary
     int u = 0, d = n-1, l = 0, r = m-1; 
 
-    //i for row
-    //j for column
-    int i = 0, j = 0;
+    int row = 0, col = 0;
 
     while (u <= d && l <= r) {
         //echo
-        printf("%d ", a[i*m+j]);
+        printf("%d ", a[row*m+col]);
 
         //move forward
-        i += x[move];
-        j += y[move];
+        row += x[move];
+        col += y[move];
         
         //check if out of boundary
-        if (j > r || i > d || j < l || i < u) {
+        if (col > r || row > d || col < l || row < u) {
             //shrink boundary
-            if (j > r)
+            if (col > r)
                 u++;
-            else if (i > d)
+            else if (row > d)
                 r--;
-            else if (j < l)
+            else if (col < l)
                 d--;
             else
                 l++;
 
-            //redo
-            i -= x[move];
-            j -= y[move];
+            //undo
+            row -= x[move];
+            col -= y[move];
 
             //turn
             move = (move + 1) % 4;
 
             //move forward again
-            i += x[move];
-            j += y[move];
+            row += x[move];
+            col += y[move];
         }
     }
 }
