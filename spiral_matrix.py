@@ -31,31 +31,31 @@ j = 0
 
 while u <= d and l <= r:
     #echo
-    print(a[i*m+j], end=' ')
+    print(a[row*m+col], end=' ')
 
     #move forward
-    i += x[move]
-    j += y[move]
+    row += x[move]
+    col += y[move]
 
     #check if out of boundary
-    if j > r or i > d or j < l or i < u:
+    if col > r or row > d or col < l or row < u:
         #shrink boundary
-        if j > r:
+        if col > r:
             u += 1
-        elif i > d:
+        elif row > d:
             r -= 1
-        elif j < l:
+        elif col < l:
             d -= 1
         else:
             l += 1
 
-        #redo
-        i -= x[move]
-        j -= y[move]
+        #undo
+        row -= x[move]
+        col -= y[move]
 
         #turn
         move = (move + 1) % 4
 
         #move forward again
-        i += x[move]
-        j += y[move]
+        row += x[move]
+        col += y[move]
