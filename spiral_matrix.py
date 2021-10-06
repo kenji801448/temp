@@ -24,10 +24,8 @@ d = n-1
 l = 0
 r = m-1
 
-#i for row
-#j for column
-i = 0
-j = 0
+row = 0
+col = 0
 
 while u <= d and l <= r:
     #echo
