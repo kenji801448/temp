@@ -1,4 +1,4 @@
-//https://c.happycodings.com/games-and-graphics/code32.html
+//https://c.happycodings.cxom/games-and-graphics/code32.html
 
 #include <graphics.h>
 #include <stdlib.h>
@@ -15,7 +15,7 @@ void again();void print();void remove();void frame();
 int score=0,spd,q,t,a=0,i,j,l[6]={300,90,315,105,301,91},p,turn,m,n;
 char play='y';
 static int arr[26][13];
-void main(void)
+int main()
 {
 
    char ch,y;
@@ -29,33 +29,20 @@ do{
    do{
    clrscr();
    cleardevice();
-   printf("
- Enter Your Choice
-
-");
-   printf(" Basic Level.......... 1
-");
-   printf(" Middle Level......... 2
-");
-   printf(" Advanced Level....... 3
-");
-   printf(" Experts Level........ 4
-");
-   printf(" Professional Level... 5
-");
+   printf(" Enter Your Choice");
+   printf(" Basic Level.......... 1");
+   printf(" Middle Level......... 2");
+   printf(" Advanced Level....... 3");
+   printf(" Experts Level........ 4");
+   printf(" Professional Level... 5");
    y=getch();
    clrscr();
    cleardevice();
-   if(y=='1') {spd=200; settextstyle(2,0,6);outtextxy(2,150,"   Basic
-Level ");break;}
-   if(y=='2') {spd=150; settextstyle(2,0,6);outtextxy(2,150,"   Middle
-Level ");break;}
-   if(y=='3') {spd=100; settextstyle(2,0,6);outtextxy(2,150,"  Advanced
-Level ");break;}
-   if(y=='4') {spd=75; settextstyle(2,0,6);outtextxy(2,150,"  Experts
-Level ");break;}
-   if(y=='5') {spd=50;  settextstyle(2,0,6);outtextxy(2,150,"Professional
-Level ");break;}
+   if(y=='1') {spd=200; settextstyle(2,0,6);outtextxy(2,150,"   Basic Level ");break;}
+   if(y=='2') {spd=150; settextstyle(2,0,6);outtextxy(2,150,"   Middle Level ");break;}
+   if(y=='3') {spd=100; settextstyle(2,0,6);outtextxy(2,150,"  Advanced Level ");break;}
+   if(y=='4') {spd=75; settextstyle(2,0,6);outtextxy(2,150,"  Experts Level ");break;}
+   if(y=='5') {spd=50;  settextstyle(2,0,6);outtextxy(2,150,"Professional Level ");break;}
       }while(1);
 
    frame();
@@ -69,8 +56,7 @@ ar[1]=random(2);
 pr[1]=random(6);
 while(1)
 {
-printf(" score= %d
-",score);
+printf(" score= %d ",score);
 a=ar[0];
 p=pr[0];
 l[0]=450;l[1]=250;l[2]=465;l[3]=265;l[4]=451;l[5]=251;
@@ -175,6 +161,7 @@ if(turn==0) break;
 
     }while(play=='y');
 
+    return 0;
 }
 
 
@@ -596,4 +583,4 @@ void again()
  if(play=='y') cleardevice();
  else exit(0);
 
- }
+}
