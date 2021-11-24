@@ -6,8 +6,13 @@
 #include <dos.h>
 #include <conio.h>
 
-void swap(int a,int b);void bar1();void bar2();
-void bar3();  void bar4();  check0(); check1();
+void swap(int a,int b);
+void bar1();
+void bar2();
+void bar3();
+void bar4();
+int check0();
+check1();
 check2(); void del(); void rod1(); void rod2();
 void box1();void box2();void tee1();voidtee2();
 void tee3();void tee4();check3();void insert();
@@ -291,7 +296,7 @@ void box2()
 
       }
 
- check0()
+ int check0()
 { int x,y,s,d=5;
 
    x=(l[0]-180)/15;
