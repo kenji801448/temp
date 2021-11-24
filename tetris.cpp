@@ -12,11 +12,23 @@ void bar2();
 void bar3();
 void bar4();
 int check0();
-check1();
-check2(); void del(); void rod1(); void rod2();
-void box1();void box2();void tee1();voidtee2();
-void tee3();void tee4();check3();void insert();
-void again();void print();void remove();void frame();
+int check1();
+int check2();
+int check3();
+void del();
+void rod1();
+void rod2();
+void box1();
+void box2();
+void tee1();
+void tee2();
+void tee3();
+void tee4();
+void insert();
+void again();
+void print();
+void remove();
+void frame();
 int score=0,spd,q,t,a=0,i,j,l[6]={300,90,315,105,301,91},p,turn,m,n;
 char play='y';
 static int arr[26][13];
@@ -296,46 +308,71 @@ void box2()
 
       }
 
- int check0()
-{ int x,y,s,d=5;
+int check0() {
 
-   x=(l[0]-180)/15;
-   y=(l[1]-90)/15;
-   if(a==0){
-		  switch (p)
-		   { case 0: y+=2;d=2; if(arr[y][x-1]==1) return(1); else break;
-		     case 1: y+=4;x++;d=1;if(arr[y-3][x-1]==1) return(1); else break;
-		     case 2: y=y+4;d=2;x+=1;break;
-		     case 3: y=y+1;d=5;x+=4;break;
-		     case 4: y+=2;d=3;x++;break;
-		     case 5: y+=1;d=3;if(arr[y+1][x-1]==1) return(1); else break;
-     }
-		      for(s=1;s<d;s++,x--)
-		      if(arr[y][x]==1) return(1);
-		      if((arr[y][x])==0) return(0); else return(1);
-		     }
+    int x,y,s,d=5;
 
-      if(a==1){
-		     switch (p)
-		   { case 0: y+=2;d=2; if(arr[y][x-1]==1) return(1); else break;
-		     case 1: y=y+2;d=4;if(arr[y][x]==1) return(1); else break;
-		     case 2: y=y+2;d=4;x+=3;if(arr[y][x-3]==1) return(1); else break;
-		     case 3: y=y+5;d=0;break;
-		     case 4: y+=3;d=0;if(arr[y-1][x+1]==1) return(1); else break;
-		     case 5: y+=3;d=0;if(arr[y-1][x-1]==1) return(1); else break;
-		   }
-		      for(s=1;s<d;s++,x--)
-		      if(arr[y][x]==1) break;
-     if((arr[y][x])==0) return(0); else return(1);
-		       }
+    x=(l[0]-180)/15;
+    y=(l[1]-90)/15;
+    if(a==0){
+        switch (p) {
+            case 0:
+                y += 2;
+                d = 2;
+                if(arr[y][x-1]==1) 
+                    return(1);
+                else
+                    break;
+            case 1:
+                y += 4;
+                x++;
+                d=1;
+                if(arr[y-3][x-1]==1)
+                    return(1);
+                else
+                    break;
+		     case 2:
+                y = y + 4;
+                d = 2;
+                x += 1;
+                break;
+		     case 3:
+                y = y + 1;
+                d = 5;
+                x += 4;
+                break;
+		     case 4:
+                y += 2;
+                d = 3;
+                x++;
+                break;
+		     case 5:
+                y += 1;
+                d = 3;
+                if(arr[y+1][x-1]==1)
+                    return(1);
+                else
+                    break;
+        }
+        for (s=1;s<d;s++,x--)
+            if(arr[y][x]==1)
+                return(1);
+        if((arr[y][x])==0) 
+            return(0);
+        else 
+            return(1);
+    }
 
+    if(a==1){
+        if((arr[y][x])==0) return(0); else return(1);
+    }
 
-  return(0);
+    return(0);
 }
 
 
-check1()
-{  int x,y,s,d=5;
+int check1() {
+    int x,y,s,d=5;
 
    x=(l[0]-150)/15;
    y=(l[1]-90)/15;
@@ -374,7 +411,7 @@ check1()
 }
 
 
-check2()
+int check2()
 {
  int x,y,s,d=5;
    x=(l[0]-150)/15;
@@ -411,8 +448,7 @@ check2()
 		 		  return(0);
 }
 
- check3()
-{
+int check3() {
 
  for(t=1;t<25;t++)
 
