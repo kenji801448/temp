@@ -1,9 +1,14 @@
+#garena
 127.0.0.1 cdn.gxx.garenanow.com
 127.0.0.1 dl.lol.cdn.garenanow.com
 
+#mini game
 127.0.0.1 www.edigame.com
-
 127.0.0.1 www.i-gamer.net
-
-127.0.0.1 moon.kagari.moe
 127.0.0.1 cn.game-game.com
+
+#tetris
+127.0.0.1 moon.kagari.moe
+
+#steam
+127.0.0.1 store.steampowered.com
