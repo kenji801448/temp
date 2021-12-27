@@ -9,6 +9,11 @@
 
 #tetris
 127.0.0.1 moon.kagari.moe
+127.0.0.1 api.adinplay.com
+127.0.0.1 tetr.io
+127.0.0.1 cdn.xsolla.net
+127.0.0.1 secure.xsolla.com
+127.0.0.1 kagari.online
 
 #steam
 127.0.0.1 store.steampowered.com
