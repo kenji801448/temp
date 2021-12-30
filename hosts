@@ -204,14 +204,10 @@
 127.0.0.1 image8.pubmatic.com
 127.0.0.1 j.mrpdata.net
 127.0.0.1 jp-u.openx.net
-
-127.0.0.1 eus.rubiconproject.com
-127.0.0.1 jp-u.openx.net
 127.0.0.1 eb2.3lift.com
 127.0.0.1 ap.lijit.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 s0.2mdn.net
-
 127.0.0.1 surviv.io
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 connect.facebook.net
@@ -220,7 +216,6 @@
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 secure.quantserve.com
 127.0.0.1 d.pub.network
-127.0.0.1 
 127.0.0.1 rules.quantcount.com
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 sb.scorecardresearch.com
@@ -236,6 +231,6 @@
 127.0.0.1 ad-delivery.net
 127.0.0.1 analytics.kongregate.io
 127.0.0.1 api.btloader.com
-127.0.0.1 as-sgp-04.surviv.io:449
+127.0.0.1 as-sgp-04.surviv.io
 127.0.0.1 static.btloader.com
 127.0.0.1 adservice.google.com
