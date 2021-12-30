@@ -75,7 +75,6 @@
 127.0.0.1 script.hotjar.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 i.ytimg.com
-127.0.0.1 stats.g.doubleclick.
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 jp-u.openx.net
 127.0.0.1 singapore2.biologyclass.club
@@ -83,10 +82,7 @@
 127.0.0.1 uswest2.biologyclass.club
 127.0.0.1 useast2.biologyclass.club
 127.0.0.1 frankfurt.biologyclass.club
-
-127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 mc.yandex.ru
-
 127.0.0.1 kevin.games
 127.0.0.1 cdn.jsdelivr.net
 127.0.0.1 cdnjs.cloudflare.com
@@ -117,7 +113,6 @@
 127.0.0.1 c1.adform.net
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.stickyadstv.com
-127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 cms.quantserve.com
 127.0.0.1 contextual.media.net
 127.0.0.1 creatives.sascdn.com
@@ -210,7 +205,6 @@
 127.0.0.1 cdn.krxd.net
 127.0.0.1 ce.lijit.com
 127.0.0.1 cm.adgrx.com
-127.0.0.1 connect.facebook.net
 127.0.0.1 consumer.krxd.net
 127.0.0.1 contextual.media.net
 127.0.0.1 creativecdn.com
