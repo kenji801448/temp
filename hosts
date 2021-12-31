@@ -75,6 +75,7 @@
 127.0.0.1 casale-match.dotomi.com
 127.0.0.1 cdn-ssl.vidible.tv
 127.0.0.1 cdn.adnxs.com
+127.0.0.1 cdn.akamai.steamstatic.com
 127.0.0.1 cdn.ampproject.org
 127.0.0.1 cdn.applixir.com
 127.0.0.1 cdn.aralego.net
@@ -223,6 +224,7 @@
 127.0.0.1 static.viralize.tv
 127.0.0.1 static.xx.fbcdn.net
 127.0.0.1 static.zdassets.com
+127.0.0.1 store.akamai.steamstatic.com
 127.0.0.1 store.steampowered.com
 127.0.0.1 surviv.io
 127.0.0.1 sync-tm.everesttech.net
