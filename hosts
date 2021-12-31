@@ -7,7 +7,6 @@
 #kevin games
 #steam
 #tetris io
-127.0.0.1 492dca2135a3c1db62a7141c0c4337d0.safeframe.googlesyndication.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.sportradarserving.com
 127.0.0.1 a1946.casalemedia.com
@@ -84,6 +83,7 @@
 127.0.0.1 choices.truste.com
 127.0.0.1 cm.adgrx.com
 127.0.0.1 cm.ctnsnet.com
+127.0.0.1 cm.miniclippt.com
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cn.game-game.com
 127.0.0.1 configs-web.agario.miniclippt.com
@@ -117,6 +117,7 @@
 127.0.0.1 freestar-io.videoplayerhub.com
 127.0.0.1 funs.me
 127.0.0.1 global.ib-ibi.com
+127.0.0.1 goliath.bi.miniclippt.com
 127.0.0.1 grid.bidswitch.net
 127.0.0.1 gum.criteo.com
 127.0.0.1 h02.hotrank.com.tw
@@ -138,6 +139,7 @@
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 kagari.online
 127.0.0.1 kevin.games
+127.0.0.1 live-arena-nzupru.agar.io
 127.0.0.1 logs.viadata.store
 127.0.0.1 match.deepintent.com
 127.0.0.1 match.prod.bidr.io
@@ -187,6 +189,7 @@
 127.0.0.1 static.btloader.com
 127.0.0.1 static.diep.io
 127.0.0.1 static.viralize.tv
+127.0.0.1 static.xx.fbcdn.net
 127.0.0.1 static.zdassets.com
 127.0.0.1 store.steampowered.com
 127.0.0.1 surviv.io
@@ -218,10 +221,12 @@
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 web.i-gamer.net
 127.0.0.1 webbouncer-live-v8-0.agario.miniclippt.com
+127.0.0.1 widget-mediator.zopim.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
 127.0.0.1 www.i-gamer.net
 127.0.0.1 www.storygize.net
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 x.bidswitch.net
+127.0.0.1 yt3.ggpht.com
 127.0.0.1 z.moatads.com
