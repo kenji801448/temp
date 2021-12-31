@@ -20,6 +20,7 @@
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.doubleclick.net
+127.0.0.1 ad.iplayer.org
 127.0.0.1 ad.turn.com
 127.0.0.1 ads.aralego.com
 127.0.0.1 ads.pubmatic.com
@@ -75,6 +76,7 @@
 127.0.0.1 cdngarenanow-a.akamaihd.net
 127.0.0.1 cdnjs.cloudflare.com
 127.0.0.1 ce.lijit.com
+127.0.0.1 certify.alexametrics.com
 127.0.0.1 cm.adgrx.com
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cn.game-game.com
@@ -82,11 +84,13 @@
 127.0.0.1 configs.agario.miniclippt.com
 127.0.0.1 consumer.krxd.net
 127.0.0.1 contextual.media.net
+127.0.0.1 counter.yadro.ru
 127.0.0.1 creativecdn.com
 127.0.0.1 creatives.sascdn.com
 127.0.0.1 csync.loopme.me
 127.0.0.1 d.agkn.com
 127.0.0.1 d.pub.network
+127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d9.flashtalking.com
 127.0.0.1 dggaenaawxe8z.cloudfront.net
 127.0.0.1 diep.io
@@ -105,12 +109,15 @@
 127.0.0.1 fei.pro-market.net
 127.0.0.1 freestar-d.openx.net
 127.0.0.1 freestar-io.videoplayerhub.com
+127.0.0.1 funs.me
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 grid.bidswitch.net
 127.0.0.1 gum.criteo.com
+127.0.0.1 h02.hotrank.com.tw
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hbx.media.net
 127.0.0.1 htlb.casalemedia.com
+127.0.0.1 i-gamer.net
 127.0.0.1 i.w55c.net
 127.0.0.1 ib.3lift.com
 127.0.0.1 ib.adnxs.com
@@ -146,6 +153,7 @@
 127.0.0.1 pr-bh.ybp.yahoo.com
 127.0.0.1 px.moatads.com
 127.0.0.1 quantcast.mgr.consensu.org
+127.0.0.1 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 127.0.0.1 renotifier.miniclippt.com
 127.0.0.1 rtb-csync.smartadserver.com
 127.0.0.1 rtb-msk-2.viadata.store
@@ -190,6 +198,7 @@
 127.0.0.1 uscdn.viadata.store
 127.0.0.1 uscdn.viaqoo.tech
 127.0.0.1 video-ads.rubiconproject.com
+127.0.0.1 web.i-gamer.net
 127.0.0.1 webbouncer-live-v8-0.agario.miniclippt.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
