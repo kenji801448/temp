@@ -1,12 +1,13 @@
-#garena
-#edigame
-#i-gamer
-#cn.game-game
-#tetris io
-#steam
-#diep
 #agar
+#cn.game-game
+#diep
+#edigame
+#garena
+#i-gamer
 #kevin games
+#steam
+#tetris io
+127.0.0.1 492dca2135a3c1db62a7141c0c4337d0.safeframe.googlesyndication.com
 127.0.0.1 a.pub.network
 127.0.0.1 a.sportradarserving.com
 127.0.0.1 a1946.casalemedia.com
@@ -22,6 +23,7 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 ad.iplayer.org
 127.0.0.1 ad.turn.com
+127.0.0.1 adinplay-d.openx.net
 127.0.0.1 ads.aralego.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.viralize.tv
@@ -60,6 +62,7 @@
 127.0.0.1 c1.adform.net
 127.0.0.1 casale-match.dotomi.com
 127.0.0.1 cdn-ssl.vidible.tv
+127.0.0.1 cdn.adnxs.com
 127.0.0.1 cdn.ampproject.org
 127.0.0.1 cdn.applixir.com
 127.0.0.1 cdn.doubleverify.com
@@ -77,7 +80,10 @@
 127.0.0.1 cdnjs.cloudflare.com
 127.0.0.1 ce.lijit.com
 127.0.0.1 certify.alexametrics.com
+127.0.0.1 choices.trustarc.com
+127.0.0.1 choices.truste.com
 127.0.0.1 cm.adgrx.com
+127.0.0.1 cm.ctnsnet.com
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cn.game-game.com
 127.0.0.1 configs-web.agario.miniclippt.com
@@ -151,6 +157,7 @@
 127.0.0.1 pm.w55c.net
 127.0.0.1 polyfill.io
 127.0.0.1 pr-bh.ybp.yahoo.com
+127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 px.moatads.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
@@ -159,7 +166,10 @@
 127.0.0.1 rtb-msk-2.viadata.store
 127.0.0.1 rtb.adentifi.com
 127.0.0.1 rtb.mfadsrvr.com
+127.0.0.1 rtb0.doubleverify.com
 127.0.0.1 rules.quantcount.com
+127.0.0.1 s.amazon-adsystem.com
+127.0.0.1 s.yimg.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 sasinator.realestate.com.au
 127.0.0.1 sb.scorecardresearch.com
@@ -167,6 +177,9 @@
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure.xsolla.com
+127.0.0.1 servedby.flashtalking.com
+127.0.0.1 server.cpmstar.com
+127.0.0.1 sg2-bid.adsrvr.org
 127.0.0.1 sin3-ib.adnxs.com
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 static-cdn.jtvnw.net
@@ -185,15 +198,20 @@
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.srv.stackadapt.com
 127.0.0.1 sync.targeting.unrulymedia.com
+127.0.0.1 tag.1rx.io
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tatic.zdassets.com
 127.0.0.1 tetr.io
 127.0.0.1 topbar.garena.tw
+127.0.0.1 tps.doubleverify.com
+127.0.0.1 tps802.doubleverify.com
+127.0.0.1 tpsc-sgc.doubleverify.com
 127.0.0.1 triplelift-match.dotomi.com
 127.0.0.1 trk.vidible.tv
 127.0.0.1 u.ipw.metadsp.co.uk
 127.0.0.1 um.simpli.fi
 127.0.0.1 ums.acuityplatform.com
+127.0.0.1 ups.analytics.yahoo.com
 127.0.0.1 us.creativecdn.com
 127.0.0.1 uscdn.viadata.store
 127.0.0.1 uscdn.viaqoo.tech
