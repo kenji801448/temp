@@ -65,6 +65,7 @@
 127.0.0.1 bt6p.s.m28n.net
 127.0.0.1 btloader.com
 127.0.0.1 bttrack.com
+127.0.0.1 builds.crazygames.com
 127.0.0.1 bx01.optimix.cn
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.deployads.com
@@ -157,6 +158,7 @@
 127.0.0.1 image4.pubmatic.com
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
+127.0.0.1 images.crazygames.com
 127.0.0.1 j.mrpdata.net
 127.0.0.1 jp-u.openx.net
 127.0.0.1 js-sec.indexww.com
@@ -263,10 +265,13 @@
 127.0.0.1 uscdn.viadata.store
 127.0.0.1 uscdn.viaqoo.tech
 127.0.0.1 video-ads.rubiconproject.com
+127.0.0.1 videos.crazygames.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 web.i-gamer.net
 127.0.0.1 webbouncer-live-v8-0.agario.miniclippt.com
 127.0.0.1 widget-mediator.zopim.com
+127.0.0.1 workers.crazygames.com
+127.0.0.1 www.crazygames.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
 127.0.0.1 www.i-gamer.net
