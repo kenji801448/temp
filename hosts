@@ -31,6 +31,8 @@
 127.0.0.1 ad4m.at
 127.0.0.1 adinplay-d.openx.net
 127.0.0.1 ads-ap.v.ssp.yahoo.com
+127.0.0.1 ads-deliverync.gameforge.com
+127.0.0.1 ads-media.gameforge.com
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads.aralego.com
 127.0.0.1 ads.pubmatic.com
@@ -44,6 +46,7 @@
 127.0.0.1 aktrack.pubmatic.com
 127.0.0.1 amer.viadata.store
 127.0.0.1 amerx.viadata.store
+127.0.0.1 analytics-live.gameforge.com
 127.0.0.1 analytics.kongregate.io
 127.0.0.1 aorta.clickagy.com
 127.0.0.1 ap.lijit.com
@@ -51,6 +54,7 @@
 127.0.0.1 api.btloader.com
 127.0.0.1 api.floors.dev
 127.0.0.1 api.gameanalytics.com
+127.0.0.1 api.github.com
 127.0.0.1 api.n.m28.io
 127.0.0.1 apollo.miniclip.com
 127.0.0.1 appnexus-partners.tremorhub.com
@@ -109,8 +113,10 @@
 127.0.0.1 ce.lijit.com
 127.0.0.1 ced-ns.sascdn.com
 127.0.0.1 certify.alexametrics.com
+127.0.0.1 challenge.gameforge.com
 127.0.0.1 choices.trustarc.com
 127.0.0.1 choices.truste.com
+127.0.0.1 chvin.github.io
 127.0.0.1 cksync.yahoo.co.jp
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.adgrx.com
@@ -120,6 +126,7 @@
 127.0.0.1 cn.game-game.com
 127.0.0.1 configs-web.agario.miniclippt.com
 127.0.0.1 configs.agario.miniclippt.com
+127.0.0.1 consent.gameforge.com
 127.0.0.1 consumer.krxd.net
 127.0.0.1 contextual.media.net
 127.0.0.1 counter.yadro.ru
@@ -163,6 +170,8 @@
 127.0.0.1 funs.me
 127.0.0.1 fv.s.m28n.net
 127.0.0.1 fz.s.m28n.net
+127.0.0.1 gameforge.com
+127.0.0.1 ghbtns.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 go.bloxplay.com
 127.0.0.1 goliath.bi.miniclippt.com
@@ -190,6 +199,7 @@
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
 127.0.0.1 images.crazygames.com
+127.0.0.1 img.alicdn.com
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 j.mrpdata.net
 127.0.0.1 jp-u.openx.net
@@ -213,6 +223,7 @@
 127.0.0.1 onesignal.com
 127.0.0.1 onetag-sys.com
 127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 p.211games.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.rfihub.com
 127.0.0.1 pa.rxthdr.com
@@ -229,6 +240,7 @@
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.tapad.com
+127.0.0.1 pixelzirkus.gameforge.com
 127.0.0.1 pm.w55c.net
 127.0.0.1 polyfill.io
 127.0.0.1 pr-bh.ybp.yahoo.com
@@ -243,6 +255,7 @@
 127.0.0.1 red.erne.co
 127.0.0.1 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
 127.0.0.1 renotifier.miniclippt.com
+127.0.0.1 rr7---sn-5njj-u2xl.googlevideo.com
 127.0.0.1 rt.udmserve.net
 127.0.0.1 rtb-csync.smartadserver.com
 127.0.0.1 rtb-msk-2.viadata.store
@@ -263,6 +276,7 @@
 127.0.0.1 script.hotjar.com
 127.0.0.1 sdk.crazygames.com
 127.0.0.1 search.spotxchange.com
+127.0.0.1 secure-asset-delivery.gameforge.com
 127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure.flashtalking.com
@@ -375,6 +389,7 @@
 127.0.0.1 www.crazygames.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
+127.0.0.1 www.gamesmomo.com
 127.0.0.1 www.i-gamer.net
 127.0.0.1 www.quilt.idv.tw
 127.0.0.1 www.storygize.net
