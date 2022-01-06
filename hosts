@@ -113,6 +113,7 @@
 127.0.0.1 cdn.xsolla.net
 127.0.0.1 cdngarenanow-a.akamaihd.net
 127.0.0.1 cdnjs.cloudflare.com
+127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
 127.0.0.1 ced-ns.sascdn.com
 127.0.0.1 certify.alexametrics.com
@@ -128,6 +129,7 @@
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cn.game-game.com
 127.0.0.1 cnzz.mmstat.com
+127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 configs-web.agario.miniclippt.com
 127.0.0.1 configs.agario.miniclippt.com
 127.0.0.1 consent.gameforge.com
@@ -163,11 +165,13 @@
 127.0.0.1 e.deployads.com
 127.0.0.1 e1.emxdgt.com
 127.0.0.1 eb2.3lift.com
+127.0.0.1 eb5eafcd2fe13c9107599dffa66d23e6.exitgames.com
 127.0.0.1 ekr.zdassets.com
 127.0.0.1 eu-u.openx.net
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 evowars.io
 127.0.0.1 f1.img4399.com
+127.0.0.1 fab977edf8e62632475e0e0f402a5d46.exitgames.com
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fei.pro-market.net
 127.0.0.1 freestar-d.openx.net
@@ -230,6 +234,7 @@
 127.0.0.1 kevin.games
 127.0.0.1 live-arena-nzupru.agar.io
 127.0.0.1 logs.viadata.store
+127.0.0.1 lordz.io
 127.0.0.1 m.adnxs.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.deepintent.com
@@ -240,6 +245,7 @@
 127.0.0.1 mid.rkdms.com
 127.0.0.1 miniclip.zendesk.com
 127.0.0.1 moon.kagari.moe
+127.0.0.1 ns.exitgames.com
 127.0.0.1 odr.mookie1.com
 127.0.0.1 onesignal.com
 127.0.0.1 onetag-sys.com
@@ -271,6 +277,7 @@
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 pre-usermatch.targeting.unrulymedia.com
 127.0.0.1 prebid.adnxs.com
+127.0.0.1 prod-api01.clanofthecloud.mobi
 127.0.0.1 ps.eyeota.net
 127.0.0.1 ptlogin.3304399.net
 127.0.0.1 pub.headerlift.com
@@ -317,6 +324,7 @@
 127.0.0.1 sin3-ib.adnxs.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 spl.zeotap.com
+127.0.0.1 squaddroyale.io
 127.0.0.1 ssbsync-global.smartadserver.com
 127.0.0.1 ssl.cdne.cpmstar.com
 127.0.0.1 ssp.api.tappx.com
@@ -382,6 +390,7 @@
 127.0.0.1 tps.doubleverify.com
 127.0.0.1 tps802.doubleverify.com
 127.0.0.1 tps811.doubleverify.com
+127.0.0.1 tps812.doubleverify.com
 127.0.0.1 tpsc-sgc.doubleverify.com
 127.0.0.1 track-east.mobileadtrading.com
 127.0.0.1 tracker-v4.gamedock.io
@@ -424,6 +433,7 @@
 127.0.0.1 www.gamesmomo.com
 127.0.0.1 www.gamesofa.com
 127.0.0.1 www.i-gamer.net
+127.0.0.1 www.lordz.io
 127.0.0.1 www.quilt.idv.tw
 127.0.0.1 www.storygize.net
 127.0.0.1 www.zxwyouxi.com
