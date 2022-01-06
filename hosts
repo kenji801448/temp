@@ -100,6 +100,7 @@
 127.0.0.1 cdn.connectad.io
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.flashtalking.com
+127.0.0.1 cdn.gamedock.io
 127.0.0.1 cdn.gxx.garenanow.com
 127.0.0.1 cdn.id5-sync.com
 127.0.0.1 cdn.js7k.com
@@ -177,6 +178,7 @@
 127.0.0.1 fv.s.m28n.net
 127.0.0.1 fz.s.m28n.net
 127.0.0.1 g.mwsrv.com
+127.0.0.1 game.api.gamedistribution.com
 127.0.0.1 gameforge.com
 127.0.0.1 gamekuo.com
 127.0.0.1 ghbtns.com
@@ -189,11 +191,14 @@
 127.0.0.1 gum.criteo.com
 127.0.0.1 h02.hotrank.com.tw
 127.0.0.1 hb.emxdgt.com
+127.0.0.1 hb.improvedigital.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hbx.media.net
 127.0.0.1 hm.baidu.com
 127.0.0.1 hqs10.cnzz.com
 127.0.0.1 htlb.casalemedia.com
+127.0.0.1 html5.api.gamedistribution.com
+127.0.0.1 html5.gamedistribution.com
 127.0.0.1 i-gamer.net
 127.0.0.1 i.liadm.com
 127.0.0.1 i.w55c.net
@@ -258,6 +263,7 @@
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pixelzirkus.gameforge.com
+127.0.0.1 pm.gamedistribution.com
 127.0.0.1 pm.w55c.net
 127.0.0.1 polyfill.io
 127.0.0.1 pr-bh.ybp.yahoo.com
@@ -266,6 +272,7 @@
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 ps.eyeota.net
 127.0.0.1 ptlogin.3304399.net
+127.0.0.1 pub.headerlift.com
 127.0.0.1 px.moatads.com
 127.0.0.1 px.owneriq.net
 127.0.0.1 quantcast.mgr.consensu.org
@@ -360,6 +367,7 @@
 127.0.0.1 t8498596605640079984.id.amgdgt.com
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.adkernel.com
+127.0.0.1 tag.atom.gamedistribution.com
 127.0.0.1 tag.sp.advertising.com
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tatic.zdassets.com
@@ -375,6 +383,8 @@
 127.0.0.1 tps811.doubleverify.com
 127.0.0.1 tpsc-sgc.doubleverify.com
 127.0.0.1 track-east.mobileadtrading.com
+127.0.0.1 tracker-v4.gamedock.io
+127.0.0.1 tracker.gamedock.io
 127.0.0.1 trc.taboola.com
 127.0.0.1 triplelift-match.dotomi.com
 127.0.0.1 trk.vidible.tv
@@ -406,6 +416,7 @@
 127.0.0.1 widget-mediator.zopim.com
 127.0.0.1 workers.crazygames.com
 127.0.0.1 www.4399.com
+127.0.0.1 www.566games.com
 127.0.0.1 www.crazygames.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
