@@ -63,9 +63,12 @@
 127.0.0.1 apsoutheast-match.deepintent.com
 127.0.0.1 as-sgp-04.surviv.io
 127.0.0.1 as-sgp-p1.surviv.io
+127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.deployads.com
 127.0.0.1 atemda.com
 127.0.0.1 aur.s.m28n.net
+127.0.0.1 avatars.mds.yandex.net
+127.0.0.1 az725175.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
 127.0.0.1 b95.s.m28n.net
 127.0.0.1 bcp.crwdcntrl.net
@@ -79,8 +82,10 @@
 127.0.0.1 bid.socdm.com
 127.0.0.1 bidder.criteo.com
 127.0.0.1 biddr.brealtime.com
+127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 bt6p.s.m28n.net
 127.0.0.1 btloader.com
+127.0.0.1 btlr.sharethrough.com
 127.0.0.1 bttrack.com
 127.0.0.1 builds.crazygames.com
 127.0.0.1 bx01.optimix.cn
@@ -88,6 +93,7 @@
 127.0.0.1 c.bing.com
 127.0.0.1 c.cnzz.com
 127.0.0.1 c.deployads.com
+127.0.0.1 c.go-mpulse.net
 127.0.0.1 c.n.m28.io
 127.0.0.1 c.pub.network
 127.0.0.1 c1.adform.net
@@ -138,6 +144,8 @@
 127.0.0.1 consent.gameforge.com
 127.0.0.1 consumer.krxd.net
 127.0.0.1 contextual.media.net
+127.0.0.1 cookie-cdn.cookiepro.com
+127.0.0.1 cookiepro.blob.core.windows.net
 127.0.0.1 counter.yadro.ru
 127.0.0.1 cpmstar-d.openx.net
 127.0.0.1 crafatar.com
@@ -175,6 +183,7 @@
 127.0.0.1 eu-u.openx.net
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 evowars.io
+127.0.0.1 f1.i-gameworld.com
 127.0.0.1 f1.img4399.com
 127.0.0.1 fab977edf8e62632475e0e0f402a5d46.exitgames.com
 127.0.0.1 fastlane.rubiconproject.com
@@ -190,6 +199,7 @@
 127.0.0.1 game.api.gamedistribution.com
 127.0.0.1 gameforge.com
 127.0.0.1 gamekuo.com
+127.0.0.1 geolocation.onetrust.com
 127.0.0.1 ghbtns.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 go.bloxplay.com
@@ -209,6 +219,7 @@
 127.0.0.1 html5.api.gamedistribution.com
 127.0.0.1 html5.gamedistribution.com
 127.0.0.1 i-gamer.net
+127.0.0.1 i-gameworld.com
 127.0.0.1 i.liadm.com
 127.0.0.1 i.w55c.net
 127.0.0.1 ib.3lift.com
@@ -235,6 +246,7 @@
 127.0.0.1 jp-u.openx.net
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 js.cookieless-data.com
+127.0.0.1 js.monitor.azure.com
 127.0.0.1 kagari.online
 127.0.0.1 kevin.games
 127.0.0.1 live-arena-nzupru.agar.io
@@ -250,6 +262,7 @@
 127.0.0.1 mid.rkdms.com
 127.0.0.1 miniclip.zendesk.com
 127.0.0.1 mole.61.com.tw
+127.0.0.1 moomoo.io
 127.0.0.1 moon.kagari.moe
 127.0.0.1 mpayment.61.com.tw
 127.0.0.1 ns.exitgames.com
@@ -283,12 +296,14 @@
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 pre-usermatch.targeting.unrulymedia.com
 127.0.0.1 prebid.adnxs.com
+127.0.0.1 prebid.media.net
 127.0.0.1 prod-api01.clanofthecloud.mobi
 127.0.0.1 ps.eyeota.net
 127.0.0.1 ptlogin.3304399.net
 127.0.0.1 pub.headerlift.com
 127.0.0.1 px.moatads.com
 127.0.0.1 px.owneriq.net
+127.0.0.1 qk-gamer.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 rc.rlcdn.com
 127.0.0.1 red.erne.co
@@ -307,6 +322,7 @@
 127.0.0.1 s.ad.smaato.net
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.e-planning.net
+127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.yimg.com
 127.0.0.1 s0.2mdn.net
 127.0.0.1 saproxy.cpmstar.com
@@ -329,6 +345,7 @@
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 sin3-ib.adnxs.com
 127.0.0.1 sky.shiiyu.moe
+127.0.0.1 snake.io
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 spl.zeotap.com
 127.0.0.1 squaddroyale.io
@@ -424,6 +441,7 @@
 127.0.0.1 v.lkqd.net
 127.0.0.1 vars.hotjar.com
 127.0.0.1 video-ads.rubiconproject.com
+127.0.0.1 video-preview.s3.yandex.net
 127.0.0.1 videos.crazygames.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 w.cnzz.com
@@ -443,10 +461,14 @@
 127.0.0.1 www.i-gamer.net
 127.0.0.1 www.lordz.io
 127.0.0.1 www.mhgui.com
+127.0.0.1 www.minecraft.net
 127.0.0.1 www.quilt.idv.tw
 127.0.0.1 www.storygize.net
 127.0.0.1 www.zxwyouxi.com
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.dlx.addthis.com
+127.0.0.1 yandex.com
+127.0.0.1 yandex.ru
+127.0.0.1 yastatic.net
 127.0.0.1 z.moatads.com
