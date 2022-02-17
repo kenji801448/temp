@@ -13,6 +13,7 @@
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 abs.twimg.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 acds.prod.vidible.tv
 127.0.0.1 ad-delivery.net
@@ -54,6 +55,7 @@
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.github.com
 127.0.0.1 api.n.m28.io
+127.0.0.1 apikeys.civiccomputing.com
 127.0.0.1 apollo.miniclip.com
 127.0.0.1 appda.61.com.tw
 127.0.0.1 appnexus-partners.tremorhub.com
@@ -97,6 +99,7 @@
 127.0.0.1 c.pub.network
 127.0.0.1 c1.adform.net
 127.0.0.1 casale-match.dotomi.com
+127.0.0.1 cc.cdn.civiccomputing.com
 127.0.0.1 cdn-ssl.vidible.tv
 127.0.0.1 cdn.adnxs.com
 127.0.0.1 cdn.akamai.steamstatic.com
@@ -115,6 +118,7 @@
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.stickyadstv.com
+127.0.0.1 cdn.syndication.twimg.com
 127.0.0.1 cdn.viadata.store
 127.0.0.1 cdn.xsolla.net
 127.0.0.1 cdngarenanow-a.akamaihd.net
@@ -284,6 +288,7 @@
 127.0.0.1 pa.rxthdr.com
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 payments.agario.miniclippt.com
+127.0.0.1 pbs.twimg.com
 127.0.0.1 pc.garena.tw
 127.0.0.1 pcookie.cnzz.com
 127.0.0.1 pghub.io
@@ -340,6 +345,8 @@
 127.0.0.1 s.thebrighttag.com
 127.0.0.1 s.yimg.com
 127.0.0.1 s0.2mdn.net
+127.0.0.1 s3.amazonaws.com
+127.0.0.1 s7.addthis.com
 127.0.0.1 saproxy.cpmstar.com
 127.0.0.1 sasinator.realestate.com.au
 127.0.0.1 sb.scorecardresearch.com
@@ -430,10 +437,12 @@
 127.0.0.1 tags.bluekai.com
 127.0.0.1 tatic.zdassets.com
 127.0.0.1 tetr.io
+127.0.0.1 tetris.com
 127.0.0.1 tg.socdm.com
 127.0.0.1 thrtle.com
 127.0.0.1 tlx.3lift.com
 127.0.0.1 token.rubiconproject.com
+127.0.0.1 ton.twimg.com
 127.0.0.1 tools.nightsteed.com
 127.0.0.1 topbar.garena.tw
 127.0.0.1 tps.doubleverify.com
@@ -465,6 +474,7 @@
 127.0.0.1 usersync.adpone.com
 127.0.0.1 v.lkqd.net
 127.0.0.1 v.poki.com
+127.0.0.1 v1.addthisedge.com
 127.0.0.1 vars.hotjar.com
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 video-preview.s3.yandex.net
