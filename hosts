@@ -1,3 +1,4 @@
+#https://www.google.com/amp/s/gadgets.ndtv.com/internet/features/how-to-block-any-website-on-your-computer-phone-or-network-588357%3famp=1&akamai-rum=off
 127.0.0.1 139-180-196-89.deeeep.io
 127.0.0.1 6s7.s.m28n.net
 127.0.0.1 8bg.s.m28n.net
@@ -8,12 +9,14 @@
 127.0.0.1 a1898.casalemedia.com
 127.0.0.1 a1932.casalemedia.com
 127.0.0.1 a1946.casalemedia.com
+127.0.0.1 a1980.casalemedia.com
 127.0.0.1 a248.e.akamai.net
 127.0.0.1 aa.agkn.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
 127.0.0.1 aax.amazon-adsystem.com
 127.0.0.1 abs.twimg.com
+127.0.0.1 account.y8.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 acds.prod.vidible.tv
 127.0.0.1 ad-delivery.net
@@ -70,6 +73,7 @@
 127.0.0.1 az725175.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
 127.0.0.1 b95.s.m28n.net
+127.0.0.1 bam-cell.nr-data.net
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdd.s.m28n.net
 127.0.0.1 beacon-nf.rubiconproject.com
@@ -122,11 +126,13 @@
 127.0.0.1 cdn.syndication.twimg.com
 127.0.0.1 cdn.viadata.store
 127.0.0.1 cdn.xsolla.net
+127.0.0.1 cdn.y8.com
 127.0.0.1 cdngarenanow-a.akamaihd.net
 127.0.0.1 cdnjs.cloudflare.com
 127.0.0.1 cdp.cloud.unity3d.com
 127.0.0.1 ce.lijit.com
 127.0.0.1 ced-ns.sascdn.com
+127.0.0.1 certify-js.alexametrics.com
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 cf.hamreus.com
 127.0.0.1 challenge.gameforge.com
@@ -244,6 +250,7 @@
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
 127.0.0.1 images.crazygames.com
+127.0.0.1 img-hws.y8.com
 127.0.0.1 img.alicdn.com
 127.0.0.1 img.poki.com
 127.0.0.1 img1.gamemad.com
@@ -258,6 +265,7 @@
 127.0.0.1 it.crazygames.com
 127.0.0.1 j.mrpdata.net
 127.0.0.1 jp-u.openx.net
+127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 js.cookieless-data.com
 127.0.0.1 js.monitor.azure.com
@@ -307,6 +315,7 @@
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pixelzirkus.gameforge.com
 127.0.0.1 play.google.com
+127.0.0.1 playtomic.y8.com
 127.0.0.1 pm.gamedistribution.com
 127.0.0.1 pm.w55c.net
 127.0.0.1 polyfill.io
@@ -333,6 +342,7 @@
 127.0.0.1 res06.bignox.com
 127.0.0.1 res06.noxgroup.com
 127.0.0.1 res11.bignox.com
+127.0.0.1 resources.wormate.io
 127.0.0.1 rr7---sn-5njj-u2xl.googlevideo.com
 127.0.0.1 rt.udmserve.net
 127.0.0.1 rtb-csync.smartadserver.com
@@ -494,6 +504,7 @@
 127.0.0.1 webgames.io
 127.0.0.1 widget-mediator.zopim.com
 127.0.0.1 workers.crazygames.com
+127.0.0.1 wormate.io
 127.0.0.1 www.4399.com
 127.0.0.1 www.566games.com
 127.0.0.1 www.crazygames.com
@@ -516,3 +527,4 @@
 127.0.0.1 yastatic.net
 127.0.0.1 yolla-d.openx.net
 127.0.0.1 z.moatads.com
+127.0.0.1 zh.y8.com
