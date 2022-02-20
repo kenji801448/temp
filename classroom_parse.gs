@@ -5,7 +5,8 @@ function parse_grade_(grade_text) {
   return parseInt(num.substring(0, num.length / 2));
 }
 
-function text2int(text) {
+function text2int_(text) {
+  
   return text.includes("ssigned") ? 0 : parse_grade_(text);
 }
 
