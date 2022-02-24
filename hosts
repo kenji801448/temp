@@ -1,4 +1,5 @@
 127.0.0.1 139-180-196-89.deeeep.io
+127.0.0.1 2048game.com
 127.0.0.1 6s7.s.m28n.net
 127.0.0.1 8bg.s.m28n.net
 127.0.0.1 a.audrte.com
@@ -51,6 +52,7 @@
 127.0.0.1 anylist.c.appier.net
 127.0.0.1 aorta.clickagy.com
 127.0.0.1 ap.lijit.com
+127.0.0.1 api-public.addthis.com
 127.0.0.1 api.adinplay.com
 127.0.0.1 api.btloader.com
 127.0.0.1 api.crowdl.io
@@ -115,6 +117,7 @@
 127.0.0.1 cdn.applixir.com
 127.0.0.1 cdn.aralego.net
 127.0.0.1 cdn.connectad.io
+127.0.0.1 cdn.consentmanager.mgr.consensu.org
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.flashtalking.com
 127.0.0.1 cdn.gamedock.io
@@ -140,6 +143,7 @@
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 cf.hamreus.com
 127.0.0.1 challenge.gameforge.com
+127.0.0.1 chat1.minesweeper.online
 127.0.0.1 choices.trustarc.com
 127.0.0.1 choices.truste.com
 127.0.0.1 chvin.github.io
@@ -158,6 +162,7 @@
 127.0.0.1 configs-web.agario.miniclippt.com
 127.0.0.1 configs.agario.miniclippt.com
 127.0.0.1 consent.gameforge.com
+127.0.0.1 consentmanager.mgr.consensu.org
 127.0.0.1 consumer.krxd.net
 127.0.0.1 contextual.media.net
 127.0.0.1 cookie-cdn.cookiepro.com
@@ -247,6 +252,7 @@
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hbx.media.net
 127.0.0.1 hm.baidu.com
+127.0.0.1 hong4.minesweeper.online
 127.0.0.1 hqs10.cnzz.com
 127.0.0.1 htlb.casalemedia.com
 127.0.0.1 html5.api.gamedistribution.com
@@ -299,8 +305,10 @@
 127.0.0.1 login.vk.com
 127.0.0.1 logs.viadata.store
 127.0.0.1 lordz.io
+127.0.0.1 m.addthis.com
 127.0.0.1 m.adnxs.com
 127.0.0.1 m.one.impact-ad.jp
+127.0.0.1 mahjong-handle.update.sh
 127.0.0.1 map.go.affec.tv
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.bnmla.com
@@ -308,8 +316,10 @@
 127.0.0.1 match.prod.bidr.io
 127.0.0.1 match.sharethrough.com
 127.0.0.1 match.sync.ad.cpe.dotomi.com
+127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
 127.0.0.1 mid.rkdms.com
+127.0.0.1 minesweeper.online
 127.0.0.1 miniclip.zendesk.com
 127.0.0.1 mole.61.com.tw
 127.0.0.1 moomoo.io
@@ -344,6 +354,8 @@
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pixelzirkus.gameforge.com
 127.0.0.1 play.google.com
+127.0.0.1 play337.com
+127.0.0.1 playsnake.zone
 127.0.0.1 playtomic.y8.com
 127.0.0.1 pm.gamedistribution.com
 127.0.0.1 pm.w55c.net
@@ -356,6 +368,7 @@
 127.0.0.1 prebid.a-mo.net
 127.0.0.1 prebid.adnxs.com
 127.0.0.1 prebid.media.net
+127.0.0.1 pro.fontawesome.com
 127.0.0.1 prod-api01.clanofthecloud.mobi
 127.0.0.1 prod.y-medialink.com
 127.0.0.1 ps.eyeota.net
@@ -448,6 +461,7 @@
 127.0.0.1 static.zdassets.com
 127.0.0.1 store.akamai.steamstatic.com
 127.0.0.1 store.steampowered.com
+127.0.0.1 su.addthis.com
 127.0.0.1 subscription.omnithrottle.com
 127.0.0.1 surviv.io
 127.0.0.1 sync-dsp.ad-m.asia
@@ -497,6 +511,7 @@
 127.0.0.1 tag.atom.gamedistribution.com
 127.0.0.1 tag.sp.advertising.com
 127.0.0.1 tags.bluekai.com
+127.0.0.1 tapestry.tapad.com
 127.0.0.1 tatic.zdassets.com
 127.0.0.1 tetr.io
 127.0.0.1 tetris.com
@@ -562,12 +577,14 @@
 127.0.0.1 www.crazygames.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
+127.0.0.1 www.freetetris.org
 127.0.0.1 www.gamesmomo.com
 127.0.0.1 www.gamesofa.com
 127.0.0.1 www.i-gamer.net
 127.0.0.1 www.lordz.io
 127.0.0.1 www.mhgui.com
 127.0.0.1 www.minecraft.net
+127.0.0.1 www.play337.com
 127.0.0.1 www.quilt.idv.tw
 127.0.0.1 www.storygize.net
 127.0.0.1 www.zxwyouxi.com
