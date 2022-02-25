@@ -218,6 +218,10 @@
 127.0.0.1 ekr.zdassets.com
 127.0.0.1 emuchat.emupedia.net
 127.0.0.1 emupedia.net
+127.0.0.1 encrypted-tbn0.gstatic.com
+127.0.0.1 encrypted-tbn1.gstatic.com
+127.0.0.1 encrypted-tbn2.gstatic.com
+127.0.0.1 encrypted-tbn3.gstatic.com
 127.0.0.1 eu-u.openx.net
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 event.clientgear.com
@@ -391,9 +395,11 @@
 127.0.0.1 px.owneriq.net
 127.0.0.1 qk-gamer.com
 127.0.0.1 quantcast.mgr.consensu.org
+127.0.0.1 r2---sn-5noxu-u2xe.gvt1.com
 127.0.0.1 rc.rlcdn.com
 127.0.0.1 red.erne.co
 127.0.0.1 redirect.prod.experiment.routing.cloudfront.aws.a2z.com
+127.0.0.1 redirector.gvt1.com
 127.0.0.1 renotifier.miniclippt.com
 127.0.0.1 res02.noxgroup.com
 127.0.0.1 res06.bignox.com
@@ -590,6 +596,7 @@
 127.0.0.1 www.crazygames.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
+127.0.0.1 www.flyordie.com
 127.0.0.1 www.freetetris.org
 127.0.0.1 www.gamesmomo.com
 127.0.0.1 www.gamesofa.com
