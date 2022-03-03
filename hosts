@@ -20,6 +20,7 @@
 127.0.0.1 account.y8.com
 127.0.0.1 acdn.adnxs.com
 127.0.0.1 acds.prod.vidible.tv
+127.0.0.1 ad-cdn.technoratimedia.com
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad.audiencemanager.de
@@ -35,6 +36,8 @@
 127.0.0.1 ads-media.gameforge.com
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads.aralego.com
+127.0.0.1 ads.avct.cloud
+127.0.0.1 ads.avocet.io
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads.pubmatic.com
 127.0.0.1 ads.servenobid.com
@@ -54,14 +57,17 @@
 127.0.0.1 anylist.c.appier.net
 127.0.0.1 aorta.clickagy.com
 127.0.0.1 ap.lijit.com
+127.0.0.1 api-18-237-102-218.b2c.com
 127.0.0.1 api-public.addthis.com
 127.0.0.1 api.adinplay.com
 127.0.0.1 api.btloader.com
 127.0.0.1 api.crowdl.io
 127.0.0.1 api.deeeep.io
 127.0.0.1 api.floors.dev
+127.0.0.1 api.fouanalytics.com
 127.0.0.1 api.gameanalytics.com
 127.0.0.1 api.github.com
+127.0.0.1 api.lunamedia.io
 127.0.0.1 api.n.m28.io
 127.0.0.1 apikeys.civiccomputing.com
 127.0.0.1 apollo.miniclip.com
@@ -79,6 +85,7 @@
 127.0.0.1 b1sync.zemanta.com
 127.0.0.1 b95.s.m28n.net
 127.0.0.1 bam-cell.nr-data.net
+127.0.0.1 basher.ezodn.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdd.s.m28n.net
 127.0.0.1 beacon-nf.rubiconproject.com
@@ -102,6 +109,7 @@
 127.0.0.1 bttrack.com
 127.0.0.1 builds.crazygames.com
 127.0.0.1 bx01.optimix.cn
+127.0.0.1 c.aaxads.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 c.bing.com
 127.0.0.1 c.cnzz.com
@@ -174,11 +182,14 @@
 127.0.0.1 counter.yadro.ru
 127.0.0.1 country.adinplay.workers.dev
 127.0.0.1 cpmstar-d.openx.net
+127.0.0.1 cr-p3.ladsp.jp
+127.0.0.1 cr-pall.ladsp.com
 127.0.0.1 crafatar.com
 127.0.0.1 creativecdn.com
 127.0.0.1 creatives.sascdn.com
 127.0.0.1 cs.adingo.jp
 127.0.0.1 cs.admanmedia.com
+127.0.0.1 cs.chocolateplatform.com
 127.0.0.1 cs.emxdgt.com
 127.0.0.1 cs.nex8.net
 127.0.0.1 csync.loopme.me
@@ -190,6 +201,7 @@
 127.0.0.1 d17m68fovwmgxj.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d9.flashtalking.com
+127.0.0.1 data.adsrvr.org
 127.0.0.1 ddt.61.com.tw
 127.0.0.1 de.tynt.com
 127.0.0.1 deeeep.io
@@ -202,6 +214,7 @@
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmp.brand-display.com
+127.0.0.1 dmp.rtbsrv.com
 127.0.0.1 dmp.truoptik.com
 127.0.0.1 dp1.33across.com
 127.0.0.1 dpm.demdex.net
@@ -226,6 +239,7 @@
 127.0.0.1 eus.rubiconproject.com
 127.0.0.1 event.clientgear.com
 127.0.0.1 evowars.io
+127.0.0.1 ezoic-d.openx.net
 127.0.0.1 f1.i-gameworld.com
 127.0.0.1 f1.img4399.com
 127.0.0.1 fab977edf8e62632475e0e0f402a5d46.exitgames.com
@@ -243,6 +257,7 @@
 127.0.0.1 fv.s.m28n.net
 127.0.0.1 fz.s.m28n.net
 127.0.0.1 g.mwsrv.com
+127.0.0.1 g2.gumgum.com
 127.0.0.1 game.api.gamedistribution.com
 127.0.0.1 gameforge.com
 127.0.0.1 gamekuo.com
@@ -251,6 +266,8 @@
 127.0.0.1 ghbtns.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 go.bloxplay.com
+127.0.0.1 go.ezodn.com
+127.0.0.1 go.ezoic.net
 127.0.0.1 goliath.bi.miniclippt.com
 127.0.0.1 gorisanson.github.io
 127.0.0.1 grey.erne.co
@@ -279,6 +296,7 @@
 127.0.0.1 ib.beintoo.com
 127.0.0.1 ic.tynt.com
 127.0.0.1 ice.360yield.com
+127.0.0.1 id.a-mx.com
 127.0.0.1 id.jixie.io
 127.0.0.1 id.rlcdn.com
 127.0.0.1 id5-sync.com
@@ -310,6 +328,7 @@
 127.0.0.1 js.monitor.azure.com
 127.0.0.1 kagari.online
 127.0.0.1 kevin.games
+127.0.0.1 l3.aaxads.com
 127.0.0.1 littlebigsnake.com
 127.0.0.1 littlebigsnake.zendesk.com
 127.0.0.1 live-arena-nzupru.agar.io
@@ -321,6 +340,7 @@
 127.0.0.1 m.one.impact-ad.jp
 127.0.0.1 mahjong-handle.update.sh
 127.0.0.1 map.go.affec.tv
+127.0.0.1 market-global.smrtb.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.bnmla.com
 127.0.0.1 match.deepintent.com
@@ -350,6 +370,8 @@
 127.0.0.1 pa.rxthdr.com
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 payments.agario.miniclippt.com
+127.0.0.1 pb-server.ezoic.com
+127.0.0.1 pbs.publishers.tremorhub.com
 127.0.0.1 pbs.twimg.com
 127.0.0.1 pc.garena.tw
 127.0.0.1 pcookie.cnzz.com
@@ -359,6 +381,7 @@
 127.0.0.1 pixel-eu.rubiconproject.com
 127.0.0.1 pixel-sync.sitescout.com
 127.0.0.1 pixel-us-east.rubiconproject.com
+127.0.0.1 pixel.33across.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel.onaudience.com
 127.0.0.1 pixel.quantserve.com
@@ -368,12 +391,14 @@
 127.0.0.1 pixelzirkus.gameforge.com
 127.0.0.1 play.agario.xingkong.tw
 127.0.0.1 play.google.com
+127.0.0.1 play2048.co
 127.0.0.1 play337.com
 127.0.0.1 playsnake.zone
 127.0.0.1 playtomic.y8.com
 127.0.0.1 pm.gamedistribution.com
 127.0.0.1 pm.w55c.net
 127.0.0.1 polyfill.io
+127.0.0.1 pool.admedo.com
 127.0.0.1 portal.cdn.yollamedia.com
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 pre-usermatch.targeting.unrulymedia.com
@@ -388,6 +413,7 @@
 127.0.0.1 ps.eyeota.net
 127.0.0.1 ptlogin.3304399.net
 127.0.0.1 pub.headerlift.com
+127.0.0.1 public.servenobid.com
 127.0.0.1 publisher-east.mobileadtrading.com
 127.0.0.1 pulsepoint-match.dotomi.com
 127.0.0.1 px.ads.linkedin.com
@@ -411,11 +437,14 @@
 127.0.0.1 rtb-csync.smartadserver.com
 127.0.0.1 rtb-msk-2.viadata.store
 127.0.0.1 rtb.adentifi.com
+127.0.0.1 rtb.adpone.com
+127.0.0.1 rtb.gamoshi.io
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb.mfadsrvr.com
 127.0.0.1 rtb.ninthdecimal.com
 127.0.0.1 rtb.openx.net
 127.0.0.1 rtb0.doubleverify.com
+127.0.0.1 rtd-tm.everesttech.net
 127.0.0.1 rubick.gameanalytics.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 s.0cf.io
@@ -463,6 +492,7 @@
 127.0.0.1 ssbsync.smartadserver.com
 127.0.0.1 ssc-cms.33across.com
 127.0.0.1 ssc.33across.com
+127.0.0.1 ssl-market-east-7.smrtb.com
 127.0.0.1 ssl.cdne.cpmstar.com
 127.0.0.1 ssp.api.tappx.com
 127.0.0.1 ssum-sec.casalemedia.com
@@ -477,6 +507,7 @@
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.btloader.com
 127.0.0.1 static.cloudflareinsights.com
+127.0.0.1 static.criteo.net
 127.0.0.1 static.diep.io
 127.0.0.1 static.hotjar.com
 127.0.0.1 static.viralize.tv
@@ -505,6 +536,7 @@
 127.0.0.1 sync.extend.tv
 127.0.0.1 sync.go.sonobi.com
 127.0.0.1 sync.hgrtb.com
+127.0.0.1 sync.inmobi.com
 127.0.0.1 sync.ipredictive.com
 127.0.0.1 sync.jivox.com
 127.0.0.1 sync.mathtag.com
@@ -574,6 +606,7 @@
 127.0.0.1 usermatch.krxd.net
 127.0.0.1 usermatch.targeting.unrulymedia.com
 127.0.0.1 usersync.adpone.com
+127.0.0.1 usersync.gumgum.com
 127.0.0.1 v.lkqd.net
 127.0.0.1 v.poki.com
 127.0.0.1 v1.addthisedge.com
@@ -598,6 +631,7 @@
 127.0.0.1 www.4399.com
 127.0.0.1 www.566games.com
 127.0.0.1 www.917play.com.tw
+127.0.0.1 www.aaxdetect.com
 127.0.0.1 www.crazygames.com
 127.0.0.1 www.datadoghq-browser-agent.com
 127.0.0.1 www.edigame.com
@@ -609,6 +643,7 @@
 127.0.0.1 www.lordz.io
 127.0.0.1 www.mhgui.com
 127.0.0.1 www.minecraft.net
+127.0.0.1 www.paypalobjects.com
 127.0.0.1 www.play337.com
 127.0.0.1 www.quilt.idv.tw
 127.0.0.1 www.storygize.net
@@ -616,6 +651,7 @@
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 x.bidswitch.net
 127.0.0.1 x.dlx.addthis.com
+127.0.0.1 x.videobyte.com
 127.0.0.1 yandex.com
 127.0.0.1 yandex.ru
 127.0.0.1 yastatic.net
