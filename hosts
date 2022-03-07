@@ -69,6 +69,7 @@
 127.0.0.1 api.github.com
 127.0.0.1 api.lunamedia.io
 127.0.0.1 api.n.m28.io
+127.0.0.1 api.poki.com
 127.0.0.1 apikeys.civiccomputing.com
 127.0.0.1 apollo.miniclip.com
 127.0.0.1 appda.61.com.tw
@@ -210,7 +211,6 @@
 127.0.0.1 dggaenaawxe8z.cloudfront.net
 127.0.0.1 diep.io
 127.0.0.1 dis.criteo.com
-127.0.0.1 discord.com
 127.0.0.1 dl.lol.cdn.garenanow.com
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmp.adform.net
@@ -264,7 +264,6 @@
 127.0.0.1 gameforge.com
 127.0.0.1 gamekuo.com
 127.0.0.1 gamemad.com
-127.0.0.1 geolocation.onetrust.com
 127.0.0.1 ghbtns.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 go.bloxplay.com
@@ -402,6 +401,7 @@
 127.0.0.1 playtomic.y8.com
 127.0.0.1 pm.gamedistribution.com
 127.0.0.1 pm.w55c.net
+127.0.0.1 poki.com
 127.0.0.1 polyfill.io
 127.0.0.1 pool.admedo.com
 127.0.0.1 portal.cdn.yollamedia.com
@@ -515,9 +515,12 @@
 127.0.0.1 static.criteo.net
 127.0.0.1 static.diep.io
 127.0.0.1 static.hotjar.com
+127.0.0.1 static.miniclipcdn.com
 127.0.0.1 static.viralize.tv
 127.0.0.1 static.xsolla.com
 127.0.0.1 static.zdassets.com
+127.0.0.1 static2.miniclipcdn.com
+127.0.0.1 static3.miniclipcdn.com
 127.0.0.1 store.akamai.steamstatic.com
 127.0.0.1 store.steampowered.com
 127.0.0.1 su.addthis.com
@@ -648,6 +651,7 @@
 127.0.0.1 www.lordz.io
 127.0.0.1 www.mhgui.com
 127.0.0.1 www.minecraft.net
+127.0.0.1 www.miniclip.com
 127.0.0.1 www.paypalobjects.com
 127.0.0.1 www.play337.com
 127.0.0.1 www.quilt.idv.tw
