@@ -15,5 +15,5 @@ function text2int_(text) {
  */
 function CLASSROOMGRADE(input) {
 
-  return Array.isArray(input) ? input.map(row => row.map(text2int)) : text2int(input);
+  return Array.isArray(input) ? input.map(row => row.map(text2int_)) : text2int_(input);
 }
