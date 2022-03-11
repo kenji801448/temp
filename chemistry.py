@@ -5,14 +5,17 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import time
 
-url = 'https://meteor.today/board/vschool/new'
+#parse url as root and subdomain
+url_root = 'https://meteor.today'
+vs_new = '/board/vschool/new'
+
 option = Options()
 #option.add_argument('--headless')
 
 #connect
 browser = webdriver.Chrome(options=option)
 browser.implicitly_wait(10)
-browser.get(url)
+browser.get(url_root + vs_new)
 
 #find the load more bottom and then click it
 while True:
@@ -29,17 +32,26 @@ while True:
 #explictily using html parser to suppress warning messages
 soup = BeautifulSoup(browser.find_element_by_tag_name('body').get_attribute('innerHTML'), features='html.parser')
 
-#shut selenium down as soon as possible to save resource
-browser.quit()
-
 tags = soup.find_all('a', class_='item ng-scope')
 
 article = []
 for tag in tags:
     if tag.find('div'):
-        title = tag.find('div', 'header ng-binding').text.strip() #strip() = lstrip() + rstrip()
+        #strip() = lstrip() + rstrip()
+        title = tag.find('div', 'header ng-binding').text.strip() 
         like = tag.find('div').text
-        article.append({'title': title, "like": like})
+        #hypertext link to each page
+        href = tag['href']
+        article.append({'title': title, "like": like, "href": href})
+
+for a in article:
+    browser.get(url_root + a[href])
+    innersoup = BeautifulSoup(browser.find_element_by_tag_name('body').get_attribute('innerHTML'), features='html.parser')
+    tmp = innerHTML.find_all('div', class_='sub header')
+    print(tmp)
+
+#shut selenium down as soon as possible to save resource
+browser.quit()
 
 df = pd.DataFrame(article)
 df = df[ ~ df['title'].str.contains('#公告')]
