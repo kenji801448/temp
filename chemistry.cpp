@@ -6,14 +6,20 @@
 #define INPUT_FILE_PATH "input"
 #define OUTPUT_FILE_PATH "output"
 
+//define struct alias for convenience
 typedef struct node* node_link;
+
+//data, next
 struct node {
 
     double data;
     node_link next;
 };
 
+//define struct alias for convenience
 typedef struct h_node* h_node_link;
+
+//n, sum, avg, sd
 struct h_node {
 
     int n;
@@ -21,17 +27,7 @@ struct h_node {
     node_link data; //for data array
     h_node_link next;
 
-    void init() {
-        //clean the buffer with empty stream
-        this->buffer = std::stringstream();
-        //reset sum
-        this->sum = 0;
-    }
-
     void calculate() {
-        //recalculate
-        init();
-
         //deal with summation
         for (node_link current = this->data; current; current = current->next) {
             this->sum += current->data;
