@@ -32,6 +32,7 @@
 127.0.0.1 ad.turn.com
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad4m.at
+127.0.0.1 addkt-d.openx.net
 127.0.0.1 adinplay-d.openx.net
 127.0.0.1 ads-ap.v.ssp.yahoo.com
 127.0.0.1 ads-deliverync.gameforge.com
@@ -85,6 +86,7 @@
 127.0.0.1 assets.albiononline.com
 127.0.0.1 assets.deployads.com
 127.0.0.1 atemda.com
+127.0.0.1 ats.rlcdn.com
 127.0.0.1 aur.s.m28n.net
 127.0.0.1 avatars.mds.yandex.net
 127.0.0.1 az725175.vo.msecnd.net
@@ -109,6 +111,8 @@
 127.0.0.1 bidder.criteo.com
 127.0.0.1 biddr.brealtime.com
 127.0.0.1 bk.r-ad.ne.jp
+127.0.0.1 bonk.io
+127.0.0.1 bonk2.io
 127.0.0.1 bpi.rtactivate.com
 127.0.0.1 browser.events.data.microsoft.com
 127.0.0.1 bt6p.s.m28n.net
@@ -127,6 +131,8 @@
 127.0.0.1 c.pub.network
 127.0.0.1 c1.adform.net
 127.0.0.1 c1.microsoft.com
+127.0.0.1 c21lg-d.media.net
+127.0.0.1 c2shb.pubgw.yahoo.com
 127.0.0.1 casale-match.dotomi.com
 127.0.0.1 cc.cdn.civiccomputing.com
 127.0.0.1 cdn-ssl.vidible.tv
@@ -183,9 +189,12 @@
 127.0.0.1 cn.game-game.com
 127.0.0.1 cnzz.mmstat.com
 127.0.0.1 code.jquery.com
+127.0.0.1 collect.lngtd.com
+127.0.0.1 conf.lngtd.com
 127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 configs-web.agario.miniclippt.com
 127.0.0.1 configs.agario.miniclippt.com
+127.0.0.1 connect-metrics-collector.s-onetag.com
 127.0.0.1 consent.gameforge.com
 127.0.0.1 consentmanager.mgr.consensu.org
 127.0.0.1 consumer.krxd.net
@@ -227,6 +236,7 @@
 127.0.0.1 diep.io
 127.0.0.1 dis.criteo.com
 127.0.0.1 dl.lol.cdn.garenanow.com
+127.0.0.1 dl.memuplay.com
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmp.brand-display.com
@@ -238,6 +248,7 @@
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dps.jp.cinarra.com
 127.0.0.1 dsp.adfarm1.adition.com
+127.0.0.1 dsp.nrich.ai
 127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dsum.casalemedia.com
 127.0.0.1 e-jp.cmcd1.com
@@ -295,6 +306,7 @@
 127.0.0.1 gameforge.com
 127.0.0.1 gamekuo.com
 127.0.0.1 gamemad.com
+127.0.0.1 get.s-onetag.com
 127.0.0.1 ghbtns.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 go.bloxplay.com
@@ -369,8 +381,10 @@
 127.0.0.1 live-arena-17hwum8.agar.io
 127.0.0.1 live-arena-1rdqfrv.agar.io
 127.0.0.1 live-arena-nzupru.agar.io
+127.0.0.1 lngtd.com
 127.0.0.1 login.vk.com
 127.0.0.1 logs.viadata.store
+127.0.0.1 longitudeads-com.videoplayerhub.com
 127.0.0.1 lordz.io
 127.0.0.1 m.addthis.com
 127.0.0.1 m.adnxs.com
@@ -394,6 +408,7 @@
 127.0.0.1 mole.61.com.tw
 127.0.0.1 moomoo.io
 127.0.0.1 moon.kagari.moe
+127.0.0.1 mp.4dex.io
 127.0.0.1 mpayment.61.com.tw
 127.0.0.1 nep.advangelists.com
 127.0.0.1 ns.exitgames.com
@@ -404,6 +419,7 @@
 127.0.0.1 osu.ppy.sh
 127.0.0.1 p.211games.com
 127.0.0.1 p.adsymptotic.com
+127.0.0.1 p.lngtdv.com
 127.0.0.1 p.rfihub.com
 127.0.0.1 pa.rxthdr.com
 127.0.0.1 partners.tremorhub.com
@@ -509,6 +525,7 @@
 127.0.0.1 scontent.ftpe7-2.fna.fbcdn.net
 127.0.0.1 scontent.ftpe7-4.fna.fbcdn.net
 127.0.0.1 scontent.xx.fbcdn.net
+127.0.0.1 script.4dex.io
 127.0.0.1 script.crazyegg.com
 127.0.0.1 script.hotjar.com
 127.0.0.1 sdk.crazygames.com
@@ -516,6 +533,7 @@
 127.0.0.1 secure-asset-delivery.gameforge.com
 127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 secure.adnxs.com
+127.0.0.1 secure.cdn.fastclick.net
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 secure.quantserve.com
 127.0.0.1 secure.xsolla.com
@@ -523,6 +541,8 @@
 127.0.0.1 server.cpmstar.com
 127.0.0.1 sg2-bid.adsrvr.org
 127.0.0.1 shb.richaudience.com
+127.0.0.1 signal-beacon.s-onetag.com
+127.0.0.1 signal-metrics-collector-beta.s-onetag.com
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 sin3-ib.adnxs.com
 127.0.0.1 sky.shiiyu.moe
@@ -596,6 +616,7 @@
 127.0.0.1 sync.spotim.market
 127.0.0.1 sync.springserve.com
 127.0.0.1 sync.srv.stackadapt.com
+127.0.0.1 sync.taboola.com
 127.0.0.1 sync.targeting.unrulymedia.com
 127.0.0.1 sync.teads.tv
 127.0.0.1 sync.technoratimedia.com
@@ -681,6 +702,7 @@
 127.0.0.1 workers.crazygames.com
 127.0.0.1 wormate.io
 127.0.0.1 ws.emupedia.net
+127.0.0.1 ws.rqtrk.eu
 127.0.0.1 www.4399.com
 127.0.0.1 www.566games.com
 127.0.0.1 www.917play.com.tw
@@ -698,6 +720,7 @@
 127.0.0.1 www.i-gamer.net
 127.0.0.1 www.ldplayer.tw
 127.0.0.1 www.lordz.io
+127.0.0.1 www.memuplay.com
 127.0.0.1 www.mhgui.com
 127.0.0.1 www.microsoft.com
 127.0.0.1 www.minecraft.net
@@ -705,6 +728,7 @@
 127.0.0.1 www.novelgames.com
 127.0.0.1 www.paypalobjects.com
 127.0.0.1 www.play337.com
+127.0.0.1 www.playok.com
 127.0.0.1 www.quilt.idv.tw
 127.0.0.1 www.recaptcha.net
 127.0.0.1 www.storygize.net
