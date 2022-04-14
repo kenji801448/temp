@@ -94,6 +94,7 @@
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.albiononline.com
 127.0.0.1 assets.deployads.com
+127.0.0.1 at.alicdn.com
 127.0.0.1 atemda.com
 127.0.0.1 ats.rlcdn.com
 127.0.0.1 au2.copter.io
@@ -460,6 +461,10 @@
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.lngtdv.com
 127.0.0.1 p.rfihub.com
+127.0.0.1 p4-fjco3zd5vfqdi-exaclwgva34a4i2s-994588-i1-v6exp3.ds.metric.gstatic.com
+127.0.0.1 p4-fjco3zd5vfqdi-exaclwgva34a4i2s-994588-i2-v6exp3.v4.metric.gstatic.com
+127.0.0.1 p4-fjco3zd5vfqdi-exaclwgva34a4i2s-994588-s1-v6exp3-v4.metric.gstatic.com
+127.0.0.1 p4-fjco3zd5vfqdi-exaclwgva34a4i2s-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 pa.rxthdr.com
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 payments.agario.miniclippt.com
@@ -786,6 +791,7 @@
 127.0.0.1 www.epicgames.com
 127.0.0.1 www.flyordie.com
 127.0.0.1 www.freetetris.org
+127.0.0.1 www.gamefz.com
 127.0.0.1 www.gamesmomo.com
 127.0.0.1 www.gamesofa.com
 127.0.0.1 www.hexar.io
