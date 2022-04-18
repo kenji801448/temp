@@ -14,6 +14,7 @@
 127.0.0.1 a1946.casalemedia.com
 127.0.0.1 a1980.casalemedia.com
 127.0.0.1 a248.e.akamai.net
+127.0.0.1 a272.casalemedia.com
 127.0.0.1 aa.agkn.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-fe-sin.amazon-adsystem.com
@@ -104,6 +105,7 @@
 127.0.0.1 az725175.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
 127.0.0.1 b95.s.m28n.net
+127.0.0.1 balancer.lmgssp.com
 127.0.0.1 bam-cell.nr-data.net
 127.0.0.1 basher.ezodn.com
 127.0.0.1 bat.bing.com
@@ -147,6 +149,7 @@
 127.0.0.1 c1.microsoft.com
 127.0.0.1 c21lg-d.media.net
 127.0.0.1 c2shb.pubgw.yahoo.com
+127.0.0.1 c2shb.ssp.yahoo.com
 127.0.0.1 casale-match.dotomi.com
 127.0.0.1 cc.cdn.civiccomputing.com
 127.0.0.1 cdn-ssl.vidible.tv
@@ -378,6 +381,7 @@
 127.0.0.1 id5-sync.com
 127.0.0.1 idsync.live.streamtheworld.com
 127.0.0.1 idsync.rlcdn.com
+127.0.0.1 image2.pubmatic.com
 127.0.0.1 image4.pubmatic.com
 127.0.0.1 image6.pubmatic.com
 127.0.0.1 image8.pubmatic.com
@@ -392,10 +396,12 @@
 127.0.0.1 imga3.5054399.com
 127.0.0.1 imga4.5054399.com
 127.0.0.1 imga5.5054399.com
+127.0.0.1 index-winners-ap-southeast-1-rtb.adroll.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 iogames.onl
 127.0.0.1 iogames.space
+127.0.0.1 ip-139-162-44-54.wings.io
 127.0.0.1 it.crazygames.com
 127.0.0.1 j.mrpdata.net
 127.0.0.1 jadserve.postrelease.com
@@ -415,6 +421,7 @@
 127.0.0.1 live-arena-1rdqfrv.agar.io
 127.0.0.1 live-arena-nzupru.agar.io
 127.0.0.1 lngtd.com
+127.0.0.1 loadm.exelator.com
 127.0.0.1 login.vk.com
 127.0.0.1 logs.viadata.store
 127.0.0.1 longitudeads-com.videoplayerhub.com
@@ -426,6 +433,7 @@
 127.0.0.1 mahjongsoul.yo-star.com
 127.0.0.1 map.go.affec.tv
 127.0.0.1 market-global.smrtb.com
+127.0.0.1 master.wings.io
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.bnmla.com
 127.0.0.1 match.deepintent.com
@@ -467,6 +475,7 @@
 127.0.0.1 p4-fjco3zd5vfqdi-exaclwgva34a4i2s-994588-s1-v6exp3-v4.metric.gstatic.com
 127.0.0.1 p4-fjco3zd5vfqdi-exaclwgva34a4i2s-if-v6exp3-v4.metric.gstatic.com
 127.0.0.1 pa.rxthdr.com
+127.0.0.1 paper-io.com
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 payments.agario.miniclippt.com
 127.0.0.1 pb-server.ezoic.com
@@ -554,6 +563,7 @@
 127.0.0.1 rules.quantcount.com
 127.0.0.1 s.0cf.io
 127.0.0.1 s.ad.smaato.net
+127.0.0.1 s.adroll.com
 127.0.0.1 s.amazon-adsystem.com
 127.0.0.1 s.copter.io
 127.0.0.1 s.e-planning.net
@@ -594,6 +604,7 @@
 127.0.0.1 secure.xsolla.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 server.cpmstar.com
+127.0.0.1 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
 127.0.0.1 service-aggregation-layer.juno.ea.com
 127.0.0.1 sg2-bid.adsrvr.org
 127.0.0.1 shb.richaudience.com
@@ -672,6 +683,7 @@
 127.0.0.1 sync.quantumdex.io
 127.0.0.1 sync.richaudience.com
 127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 sync.serverbid.com
 127.0.0.1 sync.sharethis.com
 127.0.0.1 sync.smartadserver.com
 127.0.0.1 sync.spotim.market
@@ -778,6 +790,7 @@
 127.0.0.1 webgames.io
 127.0.0.1 webusstatic.yo-star.com
 127.0.0.1 widget-mediator.zopim.com
+127.0.0.1 wings.io
 127.0.0.1 workers.crazygames.com
 127.0.0.1 wormate.io
 127.0.0.1 ws.emupedia.net
