@@ -149,6 +149,7 @@
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 c.n.m28.io
 127.0.0.1 c.pub.network
+127.0.0.1 c.statcounter.com
 127.0.0.1 c1.adform.net
 127.0.0.1 c1.microsoft.com
 127.0.0.1 c21lg-d.media.net
@@ -464,6 +465,7 @@
 127.0.0.1 mp.4dex.io
 127.0.0.1 mpayment.61.com.tw
 127.0.0.1 n.gameads.io
+127.0.0.1 nadgames.com
 127.0.0.1 ncdn.gameads.io
 127.0.0.1 nds-network-nav.ea.com
 127.0.0.1 nep.advangelists.com
@@ -474,6 +476,7 @@
 127.0.0.1 onetag-sys.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 osu.ppy.sh
+127.0.0.1 ox-delivery-prod-asia-northeast1.openx.net
 127.0.0.1 p.211games.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 p.lngtdv.com
@@ -610,6 +613,7 @@
 127.0.0.1 secure.cdn.fastclick.net
 127.0.0.1 secure.flashtalking.com
 127.0.0.1 secure.quantserve.com
+127.0.0.1 secure.statcounter.com
 127.0.0.1 secure.xsolla.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 server.cpmstar.com
@@ -660,6 +664,7 @@
 127.0.0.1 static2.miniclipcdn.com
 127.0.0.1 static3.miniclipcdn.com
 127.0.0.1 staticz.novelgames.com
+127.0.0.1 stats.adinplay.com
 127.0.0.1 store.akamai.steamstatic.com
 127.0.0.1 store.steampowered.com
 127.0.0.1 su.addthis.com
@@ -790,6 +795,7 @@
 127.0.0.1 visitor-usa02.omnitagjs.com
 127.0.0.1 visitor.omnitagjs.com
 127.0.0.1 vkontakte.ru
+127.0.0.1 voxiom.io
 127.0.0.1 w.cnzz.com
 127.0.0.1 w.soundcloud.com
 127.0.0.1 w8.snokido.com
