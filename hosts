@@ -97,10 +97,12 @@
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.albiononline.com
 127.0.0.1 assets.deployads.com
+127.0.0.1 assets.venge.io
 127.0.0.1 at.alicdn.com
 127.0.0.1 atemda.com
 127.0.0.1 ats.rlcdn.com
 127.0.0.1 au2.copter.io
+127.0.0.1 audit-tcfv2.cmp.quantcast.com
 127.0.0.1 aur.s.m28n.net
 127.0.0.1 avatars.mds.yandex.net
 127.0.0.1 az725175.vo.msecnd.net
@@ -209,6 +211,7 @@
 127.0.0.1 cm.adsafety.net
 127.0.0.1 cm.ctnsnet.com
 127.0.0.1 cm.miniclippt.com
+127.0.0.1 cmp.quantcast.com
 127.0.0.1 cms-xch-chicago.33across.com
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cn.game-game.com
@@ -262,6 +265,7 @@
 127.0.0.1 de.tynt.com
 127.0.0.1 deeeep.io
 127.0.0.1 demand.trafficroots.com
+127.0.0.1 devs-api.poki.com
 127.0.0.1 dggaenaawxe8z.cloudfront.net
 127.0.0.1 diep.io
 127.0.0.1 dis.criteo.com
@@ -340,10 +344,13 @@
 127.0.0.1 g-uno.mattel163.com
 127.0.0.1 g.mwsrv.com
 127.0.0.1 g2.gumgum.com
+127.0.0.1 game-cdn.poki.com
 127.0.0.1 game.api.gamedistribution.com
 127.0.0.1 gameforge.com
 127.0.0.1 gamekuo.com
 127.0.0.1 gamemad.com
+127.0.0.1 gateway.venge.io
+127.0.0.1 geo.poki.io
 127.0.0.1 get.s-onetag.com
 127.0.0.1 ggsoftware-d.openx.net
 127.0.0.1 ghbtns.com
@@ -420,8 +427,10 @@
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js.cookieless-data.com
 127.0.0.1 js.monitor.azure.com
+127.0.0.1 ka-f.fontawesome.com
 127.0.0.1 kagari.online
 127.0.0.1 kevin.games
+127.0.0.1 kit.fontawesome.com
 127.0.0.1 l3.aaxads.com
 127.0.0.1 licenses.novelgames.com
 127.0.0.1 littlebigsnake.com
@@ -788,6 +797,7 @@
 127.0.0.1 vap1sfo1.lijit.com
 127.0.0.1 vap4sfo1.lijit.com
 127.0.0.1 vars.hotjar.com
+127.0.0.1 venge.io
 127.0.0.1 vid.vidoomy.com
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 video-preview.s3.yandex.net
