@@ -10,7 +10,7 @@ void printStack() {
 
 void push(int dataToBeInsert) {
     
-    if (top < MAX_LENGTH) {
+    if (top < MAX_LENGTH-1) {
         top++;
         insertAtIndex(dataToBeInsert, top);
     } else {
