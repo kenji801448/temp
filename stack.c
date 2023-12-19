@@ -21,7 +21,7 @@ void push(int dataToBeInsert) {
 
 int pop() {
     
-    if (top > 0) {
+    if (top >= 0) {
         int r = deleteIndex(top);
         top--;
         return r;
