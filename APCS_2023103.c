@@ -4,6 +4,7 @@
 #include <stdlib.h>
 #define MAX_SIZE 500
 #define MAX_LENGTH MAX_SIZE*MAX_SIZE
+#define DEBUG 0
 
 int array[MAX_LENGTH];
 int length = 0;
@@ -146,7 +147,7 @@ int main() {
         }
     }
     //initial end
-
+    
     struct graph* graph = createAGraph(n*m);
 
     //connect horizontal edges
@@ -164,6 +165,16 @@ int main() {
             if (i < n-1 && d[i][j] && u[i+1][j]) {
                 addEdge(graph, id(i, j), id(i+1, j));
             }
+        }
+    }
+
+    if (DEBUG) {
+        for (int i = 0; i < graph->numberOfVertex; i++) {
+            printf("node %d", i);
+            for (this = graph->adjacencyLists[i]; this; this = this->next) {
+                printf(" -> %d", this->vertex);
+            }
+            printf("\n");
         }
     }
 
@@ -187,6 +198,10 @@ int main() {
             //new max is the bigger one between count and old max
             max = max < count ? count : max;
         }
+    }
+
+    if (DEBUG) {
+        printVisit();
     }
 
     printf("%d\n", max);
